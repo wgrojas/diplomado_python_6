@@ -7,3 +7,4 @@ estudiantes:
 - Bedelquer Jaimes
 - Cristian Carrillo [CristianCarrillo989066](https://github.com/CristianCarrillo989066)
 - rocio avendaño  [rocioyjuank](https://github.com/rocioyjuanka)	
+- Mafer Carrillo [Mafercarrillo15](https://github.com/Mafercarrillo15)
