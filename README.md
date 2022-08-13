@@ -6,3 +6,4 @@ estudiantes:
 - Diego RiosTorres [Profile](https://github.com/)	
 - Bedelquer Jaimes
 - Cristian Carrillo [CristianCarrillo989066](https://github.com/CristianCarrillo989066)
+- Joger Castillo [JogerCastillo](https://github.com/JogerCastillo)
