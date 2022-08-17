@@ -11,4 +11,4 @@ estudiantes:
 - Mafer Carrillo [Mafercarrillo15](https://github.com/Mafercarrillo15)
 - gabriel gonzalez  [gaedgoja](https://github.com/gaedgoja)
 - Said Rodríguez [DanSaid](https://github.com/DanSaid)
-- Wilmar Gustavo Rojas Jerez [wgrojas](https://github.com/wgrojas)
+- Wilmar Rojas [wgrojas](https://github.com/wgrojas)
