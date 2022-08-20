@@ -1,0 +1,4 @@
+#Buenos días instructora, mi nombre es Joger Castillo.
+#Esta es la solución del punto 2.1 del taller 01.
+
+print ("Estos son los días de la semana:\n-Lunes\n-Martes\n-Miércoles\n-Jueves\n-Viernes\n-Sábado\n-Domingo")
