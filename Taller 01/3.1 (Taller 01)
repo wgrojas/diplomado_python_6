@@ -1,0 +1,39 @@
+<html>
+	<head>
+	
+	</head>
+	<body>	
+
+		<h1>
+			Listado de frutas rojas y verdes
+		</h1>
+		<br>
+			<h2>
+				Rojas:
+			</h2>
+		</br>
+		<p>
+			<ul>
+				<li> Manzana</li>
+				<li> Fresa</li>
+				<li> Frambuesa</li>
+				<li> Groselas</li>
+				<li> Cerezas</li>
+			</ul>
+		</p>
+		<br>
+			<h2>
+				Verdes:
+			</h2>
+		</br>
+		<p>
+			<ul>
+				<li> Aguacate</li>
+				<li> Uva</li>
+				<li> Kiwi</li>
+				<li> Limóns</li>
+				<li> Pera</li>
+			</ul>
+		</p>
+	</body>			
+</html>
