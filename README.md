@@ -14,3 +14,6 @@ estudiantes:
 - gabriel gonzalez  [gaedgoja](https://github.com/gaedgoja)
 - Said Rodríguez [DanSaid](https://github.com/DanSaid)
 - Wilmar Rojas [wgrojas](https://github.com/wgrojas)
+
+# pagina:
+https://yursksf1.github.io/diplomado_python_6/
