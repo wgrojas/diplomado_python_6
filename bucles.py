@@ -1,5 +1,5 @@
 print()
-print('************************Los meses del año************************************')
+print('************************Meses del año************************************')
 meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio",
         "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]
 
