@@ -72,7 +72,7 @@ a = int(input('Ingrese la cantidad de numeros primos que quieres visualizar: '))
 numerosPrimos(a)
 print()
 import random
-print('*************************Adivina que numero soy*********************************')
+print('*************************Adivina que numero soy**************************************')
 print()
 
 
