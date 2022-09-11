@@ -14,7 +14,7 @@ print("La cantidad de meses que terminan en 'ero' son: ",x.count("ero"))
 print()
 
 
-print('*************************Dias de la semana*********************************')
+print('*************************Los dias de la semana*********************************')
 dias = ["lunes", "martes", "miercoles", "jueves", "viernes","sabado","domingo"]
 
 for dia in dias:
