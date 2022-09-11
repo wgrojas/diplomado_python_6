@@ -68,7 +68,7 @@ def numerosPrimos(cantidad):
         n += 1
 
 
-a = int(input('Ingrese la cantidad de numeros primos que quieres viusalizar: '))
+a = int(input('Ingrese la cantidad de numeros primos que quieres visualizar: '))
 numerosPrimos(a)
 print()
 import random
