@@ -1,30 +1,45 @@
 print()
-print('************************Meses del año************************************')
+print('************************Los meses del año************************************')
 meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio",
         "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]
 
+x=0
+y=0
 for mes in meses:
 
-        print(mes, end=("-"))
+        print(mes)
+        if mes[-3:] == 'bre':
+            x += 1
+        if mes[-3:] == 'ero':
+            y += 1
 
-x=",".join(meses)
+
 print('\n')
-print("La cantidad de meses que terminan en 'bre' son: ",x.count("bre"))
-print("La cantidad de meses que terminan en 'ero' son: ",x.count("ero"))
+print(f"La cantidad de meses que terminan en 'bre' son: {x}")
+print(f"La cantidad de meses que terminan en 'ero' son: {y}")
 print()
 
 
-print('*************************Dias de la semana*********************************')
-dias = ["lunes", "martes", "miercoles", "jueves", "viernes","sabado","domingo"]
+print('*************************Los dias de la semana*********************************')
+print()
+dias = ["lunes", "martes", "miercoles",
+        "jueves", "viernes", "sabado", "domingo"]
+
+x = 0
+y = 0
 
 for dia in dias:
 
-       print(dia, end=("-"))
+    print(dia)
 
-d=",".join(dias)
+    if dia[-2:] == 'es':
+        x += 1
+    if dia[-1] == 'o':
+        y += 1
+
 print('\n')
-print("Los dias que terminan en 'es' son: ",d.count("es"))
-print("Los dias que terminan en 'o' son: ",d.count("o"))
+print(f"Los dias que terminan en 'es' son:{x}")
+print(f"Los dias que terminan en 'o'  son:{y}")
 print()
 
 print('*************************Rango de Numeros primos*********************************')
