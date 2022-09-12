@@ -1,0 +1,39 @@
+html>
+    <head>
+
+    </head>
+
+
+     <body></body>
+
+<h1>
+    FRUTAS   
+</h1>
+
+<h2>FRUTAS VERDES</h2>
+
+<UL>
+    <li>LIMON
+    <li>MANZANA VERDE
+    <li>PERA
+    <li>kiwi
+    <li>GUANABANA
+
+ <UL>
+
+<h2>FRUTAS ROJAS</h2>    
+<ol>
+
+    <li>FRESA
+    <li>MANZANA
+    <li>SANDIA
+    <li>MORA
+    <li>PITAYA
+
+<ol>
+
+        </body>
+  
+  
+  
+        </html>

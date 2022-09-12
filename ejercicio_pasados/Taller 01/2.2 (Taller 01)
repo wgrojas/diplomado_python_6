@@ -1,0 +1,4 @@
+#Buenos días instructora, mi nombre es Joger Castillo.
+#Esta es la solución del punto 2.2 del taller 01.
+
+print ("Estos son los meses del año:\n-Eneros\n-Febrero\n-Marzo\n-Abril\n-Mayo\n-Junio\n-Julio\n-Agosto\n-Septiembre\n-Octubre\n-Noviembre\n-Diciembre")
